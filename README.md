@@ -14,8 +14,8 @@ MCP Hub serves as a central repository for various Model Context Protocol implem
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [Ravelry MCP](https://github.com/your-org/ravelry-mcp) | Access knitting and crochet patterns from Ravelry | ✅ Active |
-| [Thingiverse MCP](https://github.com/your-org/thingiverse-mcp) | Search and explore 3D printable models | ✅ Active |
+| [Ravelry MCP](https://github.com/gpaul-mcp/MCP_ravelry) | Access knitting and crochet patterns from Ravelry | ✅ Active |
+| [Thingiverse MCP](https://github.com/gpaul-mcp/MCP_thingiverse) | Search and explore 3D printable models | ✅ Active |
 
 ## 🚀 Getting Started
 
