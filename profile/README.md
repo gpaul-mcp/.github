@@ -17,7 +17,7 @@ gpaul MCP Hub serves as a central repository for various Model Context Protocol 
 | [Ravelry MCP](https://github.com/gpaul-mcp/MCP_ravelry) | Access knitting and crochet patterns from Ravelry | ✅ Active |
 | [Thingiverse MCP](https://github.com/gpaul-mcp/MCP_thingiverse) | Search and explore 3D printable models | ✅ Active |
 | [Local Dev MCP](https://github.com/gpaul-mcp/MCP_localDev) | Setup your new TS project with a single prompt | ✅ Active |
-| [Puppeteer_extra MCP](https://github.com/gpaul-mcp/MCP_puppeteer_extra) | A rework of the official pptr MCP, using pptr extra and stealth | ✅ Active |
+| [Puppeteer-extra MCP](https://github.com/gpaul-mcp/MCP_puppeteer_extra) | A rework of the official pptr MCP, using pptr extra and stealth | ✅ Active |
 
 ## 🚀 Getting Started
 
